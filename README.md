@@ -14,4 +14,4 @@ My name is Lucas Ferreira. I currently live in Cachoeira Paulista - São Paulo, 
 * **Age**: 20
 * **Living in**: Cachoeira Paulista - SP, Brazil
 * **Stack**: HTML - CSS - React.js - Redux - JavaScript - SQL - Node.js - TypeScript
-* **University**: Nope.
+* **University**: Nope, I'm finishing my course focused on full stack web development at Trybe.
